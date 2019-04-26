@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 export class YoutubeService {
 
   public url = 'https://www.googleapis.com/youtube/v3/search';
-  public key = 'AIzaSyDDoOUciO14igdAoHzwwpSZJzzDBmYg7n4';
+  public key = 'A4';
 
   constructor(private http: HttpClient) { }
 
